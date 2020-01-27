@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hometask.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hometask.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hometask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hometask.csprojAssemblyReference.cache
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hometask.csproj.GenerateResource.cache
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hometask.csproj.CoreCompileInputs.cache
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\concerning bsu\Технологии Программирования\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hometask.csprojAssemblyReference.cache
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.summaryForm.resources
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hometask.csproj.GenerateResource.cache
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\misc\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\obj\Debug\Hometask.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\obj\Debug\Hometask.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\VSunProjects\C_Sharf\Inzhor\Elevator\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Views.Form1.resources
