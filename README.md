@@ -1,2 +1,4 @@
 # ElevatorLab
-BSU labs sucs
+One of the BSU labs
+
+Requirements in req.md
